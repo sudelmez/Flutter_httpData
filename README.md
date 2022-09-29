@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This App reads data from a .json file and shows them with Alert Dialog widget.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
